@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zhuangqf.viewpagerdemo.MyViewPagerFragment"
+    android:clickable="true">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="166dp"
+        android:padding="1dp"
+        android:background="#A9A9A9"
+        android:id="@+id/flag"
+        android:layout_gravity="center" />
+
+</FrameLayout>
