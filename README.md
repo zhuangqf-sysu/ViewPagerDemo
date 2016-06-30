@@ -1,6 +1,6 @@
 # ViewPagerDemo
 
-Android Learning Demo
+Android Learning Demo (ViewPagerIndicator & ViewPager & Fragment)
 
 
 实现：利用ViewPagerIndicator和ViewPager实现图片轮播效果
